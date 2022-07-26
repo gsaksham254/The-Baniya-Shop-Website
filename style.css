@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@500&display=swap');
 *{
     margin:0;
     padding:0;
@@ -117,6 +118,7 @@
     justify-content:space-evenly;
     max-width: 80%;
     margin:auto;
+    font-family: 'Ibarra Real Nova', serif;
 
 }
 .God{
@@ -130,6 +132,7 @@
     justify-content:space-evenly;
     max-width: 80%;
     margin:auto;
+    font-family: 'Ibarra Real Nova', serif;
 
 }
 .God2{
@@ -142,8 +145,52 @@
     justify-content:space-evenly;
     max-width: 80%;
     margin:auto;
+    font-family: 'Ibarra Real Nova', serif;
 
 }
 .God3{
     padding:0px 65px;
 }
+.sectionTag{
+    padding:16px 0;
+
+}
+.sectionSubTag{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.thumbnail img{
+    width:250px;
+    border:2px solid black;
+    border-radius:26px;
+    margin-top:19px;
+}
+.secform{
+    background-color:rgb(51, 67, 141);
+    height:90vh;
+    text-align: center;
+}
+.form-center{
+    text-align: center;
+    font-family: 'Ibarra Real Nova', serif;
+    padding:23px;
+    font-size: 35px;
+}
+.forms{
+    max-width:344px;
+    margin:auto;
+}
+.forms input{
+    width:100%;
+    padding:8px;
+    font-size:15px;
+    border:2px solid black;
+    border-radius:6px;
+}
+.text-editor{
+    text-align: center;
+    font-family: 'Ibarra Real Nova', serif;
+    padding:13px;
+    font-size: 20px;
+    color:antiquewhite;
+}
+
